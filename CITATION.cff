@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Price
+    given-names: Brad D.
+    orcid: https://orcid.org/0000-0002-2674-4206
+title: brad-ley/angewandte2022: 
+version: v1.0
+date-released: 2017-12-18
